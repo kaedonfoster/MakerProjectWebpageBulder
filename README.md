@@ -1,4 +1,4 @@
-This Website builder took me roughly 6 weeks working every weekend on this!
+This Website builder took me roughly 6 weeks working every weekend on this and a few class times!
 My computer teacher last year challenged me to learn and create a program like this, and I have done it!
 
 To run this program just download the files and run the .exe file. 
